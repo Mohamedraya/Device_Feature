@@ -1,5 +1,5 @@
-package com.e_commerce
-
+package com.ecommerce
+import com.facebook.reactnative.androidsdk.FBSDKPackage;
 import android.app.Application
 import com.facebook.react.PackageList
 import com.facebook.react.ReactApplication
